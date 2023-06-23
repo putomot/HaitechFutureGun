@@ -1,4 +1,4 @@
-package net.ariel.tutorialmod.item;
+package net.ariel.tutorialmod.block;
 
 import net.ariel.tutorialmod.TutorialMod;
 import net.ariel.tutorialmod.item.ModItems;
